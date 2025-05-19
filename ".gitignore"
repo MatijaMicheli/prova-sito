@@ -1,0 +1,13 @@
+# Ignora tutto
+*
+
+# Ma NON ignorare la cartella UEF e il suo contenuto
+!UEF/
+!UEF/**
+
+# Roba da ignorare anche dentro UEF, se serve:
+*.log
+*.DS_Store
+*.tmp
+node_modules/
+.env
