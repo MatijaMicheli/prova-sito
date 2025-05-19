@@ -1,0 +1,17 @@
+{
+  "inlineFold.regex": "(?<=<svg[^>]*>)[\\s\\S]*?(?=<\\/svg>)",
+"inlineFold.regexFlags": "g",
+"inlineFold.regexGroup": 0,
+"inlineFold.unfoldedOpacity": 0.3,
+"inlineFold.maskChar": "…",
+"inlineFold.maskCss": "color:#888; font-style: italic;",
+"inlineFold.supportedLanguages": [
+  "html",
+  "javascript",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact"
+],
+"inlineFold.unfoldOnLineSelect": true,
+"inlineFold.autoFoldOnOpen": true
+}
